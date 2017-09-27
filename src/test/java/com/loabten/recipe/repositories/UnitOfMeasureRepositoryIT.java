@@ -40,5 +40,6 @@ public class UnitOfMeasureRepositoryIT {
 
     @Test
     public void testText() throws Exception {
+
     }
 }

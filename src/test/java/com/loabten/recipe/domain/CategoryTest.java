@@ -26,6 +26,7 @@ public class CategoryTest {
 
     @Test
     public void getRecipes() throws Exception {
+        assertEquals(1, 2);
     }
 
 }
