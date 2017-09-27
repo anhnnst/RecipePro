@@ -30,4 +30,8 @@ public class CategoryTest {
         //assertEquals(1, 2);
     }
 
+    @Test
+    public void getName() throws Exception {
+        assertEquals(new Long(0L), category.getId());
+    }
 }
