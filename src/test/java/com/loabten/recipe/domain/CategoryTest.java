@@ -32,6 +32,6 @@ public class CategoryTest {
 
     @Test
     public void getName() throws Exception {
-        assertEquals(new Long(0L), category.getId());
+        assertEquals(null, category.getId());
     }
 }
